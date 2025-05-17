@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f3084d5-15d3-4d7a-84c1-2a0888afb5b4" name="Changes" comment="✓ Importation des données, Examen des données, Préparation des données">
+    <list default="true" id="1f3084d5-15d3-4d7a-84c1-2a0888afb5b4" name="Changes" comment="✓ Recherche de corrélation, Extraction des jeux d’apprentissage et de test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/car_insurance_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/car_insurance_project.ipynb" afterDir="false" />
     </list>
@@ -12,6 +12,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,7 +87,8 @@
       <workItem from="1747300177887" duration="15394000" />
       <workItem from="1747341609004" duration="149000" />
       <workItem from="1747424616313" duration="2720000" />
-      <workItem from="1747427346067" duration="2603000" />
+      <workItem from="1747427346067" duration="4366000" />
+      <workItem from="1747482404508" duration="10577000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -102,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747427435030</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="✓ Recherche de corrélation, Extraction des jeux d’apprentissage et de test">
+      <option name="closed" value="true" />
+      <created>1747475669925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747475669925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="✓ Importation des données, Examen des données, Préparation des données" />
-    <option name="LAST_COMMIT_MESSAGE" value="✓ Importation des données, Examen des données, Préparation des données" />
+    <MESSAGE value="✓ Recherche de corrélation, Extraction des jeux d’apprentissage et de test" />
+    <option name="LAST_COMMIT_MESSAGE" value="✓ Recherche de corrélation, Extraction des jeux d’apprentissage et de test" />
   </component>
 </project>
