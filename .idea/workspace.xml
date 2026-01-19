@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f3084d5-15d3-4d7a-84c1-2a0888afb5b4" name="Changes" comment="✓ Comparaison avec d’autres algorithmes, Sauvegarde du modèle entraîné">
+    <list default="true" id="1f3084d5-15d3-4d7a-84c1-2a0888afb5b4" name="Changes" comment="✓ Ajout de commentaire, rapport">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/car_insurance_project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/car_insurance_project.ipynb" afterDir="false" />
     </list>
@@ -94,7 +94,8 @@
       <workItem from="1747566892560" duration="9208000" />
       <workItem from="1747598061628" duration="647000" />
       <workItem from="1747599028467" duration="2301000" />
-      <workItem from="1747670695724" duration="5951000" />
+      <workItem from="1747670695724" duration="6361000" />
+      <workItem from="1747940521173" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -136,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747583573224</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="✓ Ajout de commentaire, rapport">
+      <option name="closed" value="true" />
+      <created>1747677704853</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747677704853</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +157,7 @@
     <MESSAGE value="✓ Recherche de corrélation, Extraction des jeux d’apprentissage et de test" />
     <MESSAGE value="✓ Entraînement d'un modèle, Evaluation du modèle, Amélioration de l'évaluation" />
     <MESSAGE value="✓ Comparaison avec d’autres algorithmes, Sauvegarde du modèle entraîné" />
-    <option name="LAST_COMMIT_MESSAGE" value="✓ Comparaison avec d’autres algorithmes, Sauvegarde du modèle entraîné" />
+    <MESSAGE value="✓ Ajout de commentaire, rapport" />
+    <option name="LAST_COMMIT_MESSAGE" value="✓ Ajout de commentaire, rapport" />
   </component>
 </project>
